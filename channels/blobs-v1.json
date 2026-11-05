@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "repository": "hengpichsophandara-cmyk/cd2-sea-updates",
+  "files": [
+    {
+      "sha256": "0488e1a1a2a6fd8e2b0a8d6e6ea909477d6ca6113acff604c6e5a6eaf9da2eeb",
+      "size": 115562718,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "185dcf93740bcf3fcbd145e6f42eefe1b827a08b3de1be29922e48f45e81c8c9",
+      "size": 22943079,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "186210063754f9b9af87b4afa4b78a0d3af7f38bf50bce8e3f3c4f278e852092",
+      "size": 13695000,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "1a95c802d2e034c843ef6f723f44a4ea6bbf5d4554b7af4a25ec0c894704c0d4",
+      "size": 46169315,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "1dbc03dc4bb8147280f0adde654cb66c1865d01df67f22d9415501295dafe63a",
+      "size": 288304790,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "2682754f17e16ba73f6000f2e38e8c79ee773f348607195a47693597790198c5",
+      "size": 110021560,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "26bea05f35b79d115517c8823b9fea43ff23664db3abfe8f81e9dfeb1a649e2f",
+      "size": 540172129,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "2726570053a0d6236e9e252a368eb9fdf16950e418c1c9a6ffbb58f0670103b1",
+      "size": 11635339,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "27536c1f7a1861df985462b7da5da8c206dfd0c20cfe620c49288fded31dbf0e",
+      "size": 351352429,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "278c7df0eb2f31f45fff584c5b6e12a704f80f62d92f887bd90eed2fb234dc0c",
+      "size": 898579689,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "41843cccf57e29307ff9276c40e194e928fe7d7cc5d6b418b478eb8668b095ae",
+      "size": 42453,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "4b64931d0ea9f3f73d7deadff94c9e10355e9c00cb9add4bc534496e8d794c5e",
+      "size": 8394991,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "5eea65cf843ba6b9246c173409e87414069861da1a7deebecb3305302b9f62ae",
+      "size": 208221415,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "5f751eef8e8cd34f3a87dc6a11e0231b10b92d65a1a5a3ae3122d30574b4d970",
+      "size": 167075630,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "6a9adbfea7d2939657a93dd3405ed877e009d0a5fd31825e2898f5bf71489680",
+      "size": 5194196,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "6d66cc8972e3cdf83f59013191f7e3f57192583f7993dacead7e2d41049d5d44",
+      "size": 432622,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "99810c1bf494aea5ed497514860d2bbba4d51a8d4a9796ce49bc5bb9e303ee33",
+      "size": 263582628,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "a49a837419cc186700d44e836198fe338589f76b373622d26a69040db51a1ff4",
+      "size": 701,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "b2619fa48b37d0de0ec6afa8126218ae1e9373339161a804dab7c6b248741861",
+      "size": 59008794,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "b7af9f8b9857fd467d0e8ef0fd0ba6576dc0b8b495c9d8148e3c4dd1e6b2d366",
+      "size": 246002769,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "b7cb22ef80fe813853673aae694012968f70119c279d74f0ed67501f200d72fb",
+      "size": 130560,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "b7eea84e4ec1a4bde643748888e69bf155f1c00109be10bb8e7cdb93ff0e8898",
+      "size": 335519,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "d12671f7e7102660d95a68ba8c66825ee210c941efef05c330e40ac2ede92270",
+      "size": 5342,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "d4f79b0ebb192c77f7eed03dbd84ecc227b73135e96ca22c148ff01cb49965b3",
+      "size": 12842778,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "db032e9be30c3dcfd3545e6016c0779bedfe359143882cc7e760f7e9a3344d53",
+      "size": 1437473926,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "f020113b94527a9c37df04034038d40cc21263db69560626d22a6c3c46644e59",
+      "size": 265967463,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "f57701b392afc870c00680fbc05b2e4fb9fe7d9d05c8005db0eaf470f67682d9",
+      "size": 64123723,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    },
+    {
+      "sha256": "f975dd959ce82e45b9815fb02347f0975490c9c1c05a8b7110ff96acebd90c53",
+      "size": 15792500,
+      "tag": "mirror-cd20-bt-base-20261105-r149s-d634212e52f7-premirror"
+    }
+  ],
+  "sourceBuildId": "cd20-bt-base-20261105-r149s"
+}
